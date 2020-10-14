@@ -1,4 +1,4 @@
-# lab5_JoelMartinez_SegInf
+# lab5_JoelMartinez_Seg-Inf
 Laboratorio 5 evaluado de seguridad informática
 
 Desafío: Se le solicita a usted crear un programa del tipo cliente / servidor, el cual tenga como
